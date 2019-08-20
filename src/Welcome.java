@@ -4,5 +4,7 @@ public class Welcome {
         System.out.println("and have a good day");
         System.out.println("today is what day?");
         System.out.println("I do not know");
+        System.out.println("goood\\d");
     }
 }
+
